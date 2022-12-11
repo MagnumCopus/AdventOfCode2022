@@ -1,7 +1,7 @@
 
-# Project: 	Advent of Code 2022 - Day 9
+# Project: 	Advent of Code 2022 - Day 10
 # Author: 	Jake Cope
-# Date:		12/09/2022
+# Date:		12/10/2022
 
 import time
 
